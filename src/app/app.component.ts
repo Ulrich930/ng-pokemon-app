@@ -1,10 +1,18 @@
-import { Component } from '@angular/core';
-
+import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-root',
+  //template: `<h1>Liste des Pokémons !</h1>`,
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'ng-pokemon-app';
+  title = 'Liste de Pokémons !';
+  
+
+
+  
+
+ 
+
+  
 }
